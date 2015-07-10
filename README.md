@@ -4,7 +4,7 @@
 
 ## Usage
 
-Add the following code to your project for each set of elements you want to have an equal height. 
+Add the following code to your project for each set of elements you want to have an equal height.
 
 ```javascript
 sameHeights.addItems('your_element_class');
@@ -13,8 +13,8 @@ sameHeights.addItems('your_element_class');
 **N.B.** It'll only mathc the height for that particular set even if you call it multiple times. e.g.
 
 ```javascript
-sameHeights.addItems('your_element_class_one'); 
-sameHeights.addItems('your_element_class_two'); 
+sameHeights.addItems('your_element_class_one');
+sameHeights.addItems('your_element_class_two');
 ```
 
 ## Bower
