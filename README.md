@@ -1,6 +1,6 @@
 # sameHeights
 
-[![Build Status](https://travis-ci.org/jonnyhaynes/sameheights.svg?branch=master)](https://travis-ci.org/jonnyhaynes/sameheifghts) [![Code Climate](https://codeclimate.com/github/jonnyhaynes/sameheights/badges/gpa.svg)](https://codeclimate.com/github/jonnyhaynes/sameheights) [![npm](https://img.shields.io/npm/v/sameheights.svg)](https://www.npmjs.com/package/sameheights) [![Bower](https://img.shields.io/bower/v/sameheights.svg)](https://github.com/jonnyhaynes/sameheights) [![Dependency Status](https://david-dm.org/jonnyhaynes/sameheights.svg)](https://david-dm.org/jonnyhaynes/sameheights) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jonnyhaynes/sameheights?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Build Status](https://travis-ci.org/jonnyhaynes/sameheights.svg?branch=master)](https://travis-ci.org/jonnyhaynes/sameheifghts) [![Code Climate](https://codeclimate.com/github/jonnyhaynes/sameHeights/badges/gpa.svg)](https://codeclimate.com/github/jonnyhaynes/sameHeights) [![npm](https://img.shields.io/npm/v/sameheights.svg)](https://www.npmjs.com/package/sameheights) [![Bower](https://img.shields.io/bower/v/sameheights.svg)](https://github.com/jonnyhaynes/sameheights) [![Dependency Status](https://david-dm.org/jonnyhaynes/sameheights.svg)](https://david-dm.org/jonnyhaynes/sameheights) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jonnyhaynes/sameheights?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Usage
 
