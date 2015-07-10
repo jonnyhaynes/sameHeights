@@ -22,7 +22,7 @@ window.sameHeights = (function() {
       elem.style.minHeight = tallest + 'px';
     });
 
-  }
+  };
 
   var refresh = function() {
     requestAnimationFrame(whichElements);
@@ -39,8 +39,9 @@ window.sameHeights = (function() {
   };
 
   var resize = function() {
-    return resized = true;
-  }
+    resized = true;
+    return resized;
+  };
 
   // Init
   var init = function() {

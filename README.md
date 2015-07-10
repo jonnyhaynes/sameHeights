@@ -19,7 +19,7 @@ sameHeights.addItems('your_element_class_two');
 
 ## Bower
 
-If you're using Bower to manage your front-end dependencies you can include this plugin as a component. Include "sameheights": "1.0.0" in your bower.json file and run `bower install`.
+If you're using Bower to manage your front-end dependencies you can include this plugin as a component. Include "sameheights": "1.0.1" in your bower.json file and run `bower install`.
 
 ## NPM
 If you're using NPM to manage your dependencies you can include this plugin as a module. Just run `npm install sameheights`.
@@ -34,4 +34,5 @@ If you're using NPM to manage your dependencies you can include this plugin as a
 
 ## Changelog
 
+* 10/07/15: 1.0.1 – Package tidy up.
 * 10/07/15: 1.0.0 – First major release: registered as a Bower plugin; registered as an Node package.
