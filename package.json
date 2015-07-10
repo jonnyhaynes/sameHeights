@@ -1,0 +1,29 @@
+{
+  "name": "sameheights",
+  "version": "1.0.0",
+  "dependencies": {
+    "jshint": "2.6.3"
+  },
+  "scripts": {
+    "test": "jshint sameHeights.js"
+  },
+  "description": "A minimalist way to create columns with equal height that works on window resize too. Vanilla JS.",
+  "main": "sameHeights.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnyhaynes/sameheights.git"
+  },
+  "keywords": [
+    "height",
+    "javascript"
+  ],
+  "author": "Jonny Haynes <jonny@colouringcode.com> (http://www.colouringcode.com)",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonnyhaynes/sameheights/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/jonnyhaynes/sameheights/issues"
+  },
+  "homepage": "https://github.com/jonnyhaynes/sameheights#readme"
+}
