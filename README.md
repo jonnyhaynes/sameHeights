@@ -34,5 +34,6 @@ If you're using NPM to manage your dependencies you can include this plugin as a
 
 ## Changelog
 
+* 01/10/15: 1.1.0 - Added in polyfill for requestAnimationFrame
 * 10/07/15: 1.0.1 – Package tidy up.
 * 10/07/15: 1.0.0 – First major release: registered as a Bower plugin; registered as an Node package.
